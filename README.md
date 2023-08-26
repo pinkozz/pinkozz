@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Serhii - Python developer
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinkozz&theme=solarized_dark)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pinkozz&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pinkozz&theme=solarized_dark)
